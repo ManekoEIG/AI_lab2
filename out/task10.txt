@@ -1,0 +1,10 @@
+train/val/test: 22500/2500/25000
+VALIDATION: {'eval_loss': 0.29124903678894043, 'eval_accuracy': 0.9116, 'eval_f1': 0.9113517849979944, 'eval_runtime': 8.2211, 'eval_samples_per_second': 304.094, 'eval_steps_per_second': 9.609, 'epoch': 2.0}
+TEST: {'eval_loss': 0.26406222581863403, 'eval_accuracy': 0.91252, 'eval_f1': 0.9130797663049959, 'eval_runtime': 64.2084, 'eval_samples_per_second': 389.357, 'eval_steps_per_second': 12.179, 'epoch': 2.0}
+
+INFERENCE:
+A masterpiece! I was moved to tears by the final scene. -> [{'label': 'POSITIVE', 'score': 0.9926967024803162}]
+Total garbage. The script is idiotic and the acting is wooden. -> [{'label': 'NEGATIVE', 'score': 0.9962051510810852}]
+Not bad, but I expected more from this director. -> [{'label': 'POSITIVE', 'score': 0.5805861949920654}]
+I can't say I didn't enjoy it. -> [{'label': 'NEGATIVE', 'score': 0.8850862979888916}]
+Great, another sequel nobody asked for. Just what the world needed. -> [{'label': 'POSITIVE', 'score': 0.8254490494728088}]

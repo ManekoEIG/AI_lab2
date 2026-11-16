@@ -1,0 +1,11 @@
+ИСХОДНЫЙ ТЕКСТ:
+ Hello, Mr. Smith! Don't you think NLP isn't hard? It costs $3.50, e.g. in the U.S.A. Write to test@mail.com.
+
+sent_tokenize:
+ ['Hello, Mr. Smith!', "Don't you think NLP isn't hard?", 'It costs $3.50, e.g.', 'in the U.S.A. Write to test@mail.com.']
+
+word_tokenize:
+ ['Hello', ',', 'Mr.', 'Smith', '!', 'Do', "n't", 'you', 'think', 'NLP', 'is', "n't", 'hard', '?', 'It', 'costs', '$', '3.50', ',', 'e.g', '.', 'in', 'the', 'U.S.A.', 'Write', 'to', 'test', '@', 'mail.com', '.']
+
+WordPunctTokenizer:
+ ['Hello', ',', 'Mr', '.', 'Smith', '!', 'Don', "'", 't', 'you', 'think', 'NLP', 'isn', "'", 't', 'hard', '?', 'It', 'costs', '$', '3', '.', '50', ',', 'e', '.', 'g', '.', 'in', 'the', 'U', '.', 'S', '.', 'A', '.', 'Write', 'to', 'test', '@', 'mail', '.', 'com', '.']

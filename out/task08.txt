@@ -1,0 +1,36 @@
+Train: 1600 Test: 400
+Accuracy: 0.735
+
+Top-20 informative words:
+Most Informative Features
+             outstanding = True           Positi : Negati =     13.9 : 1.0
+               insulting = True           Negati : Positi =     13.7 : 1.0
+              vulnerable = True           Positi : Negati =     13.0 : 1.0
+               ludicrous = True           Negati : Positi =     12.6 : 1.0
+             uninvolving = True           Negati : Positi =     12.3 : 1.0
+              astounding = True           Positi : Negati =     11.7 : 1.0
+                  avoids = True           Positi : Negati =     11.7 : 1.0
+             fascination = True           Positi : Negati =     11.0 : 1.0
+               affecting = True           Positi : Negati =     10.3 : 1.0
+               animators = True           Positi : Negati =     10.3 : 1.0
+                    anna = True           Positi : Negati =     10.3 : 1.0
+                  darker = True           Positi : Negati =     10.3 : 1.0
+                  seagal = True           Negati : Positi =     10.3 : 1.0
+                  symbol = True           Positi : Negati =     10.3 : 1.0
+                 idiotic = True           Negati : Positi =      9.8 : 1.0
+                  annual = True           Positi : Negati =      9.0 : 1.0
+                bothered = True           Negati : Positi =      9.0 : 1.0
+                  hatred = True           Positi : Negati =      9.0 : 1.0
+               illogical = True           Negati : Positi =      9.0 : 1.0
+                   mulan = True           Positi : Negati =      9.0 : 1.0
+
+This movie was absolutely fantastic, the acting was brilliant
+  -> Positive (pos=0.699, neg=0.301)
+The plot was boring and the characters were terrible
+  -> Negative (pos=0.059, neg=0.941)
+An outstanding film with a touching story
+  -> Positive (pos=0.975, neg=0.025)
+I hated this awful movie, a complete waste of time
+  -> Negative (pos=0.028, neg=0.972)
+The film was okay, nothing special but not bad either
+  -> Negative (pos=0.235, neg=0.765)

@@ -1,0 +1,16 @@
+Категории: {'rec.sport.hockey': 'Hockey', 'sci.space': 'Space', 'talk.politics.misc': 'Politics', 'sci.electronics': 'Electronics', 'rec.autos': 'Cars'}
+
+Input: The goalie made an incredible save in the third period of the game
+Predicted: Hockey
+
+Input: NASA is planning a new mission to explore the surface of Mars
+Predicted: Space
+
+Input: The senator proposed a new law about taxes and healthcare
+Predicted: Politics
+
+Input: I replaced the transistor and the resistor on the circuit board
+Predicted: Electronics
+
+Input: My car needs a new engine and the brakes are making noise
+Predicted: Cars
